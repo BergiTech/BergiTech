@@ -1,5 +1,5 @@
 Hi, I'm BergiTech, a tech enthusiast with a deep interest in hardware hacking, UART communication, homelab configurations, and PCB repair. 
-I enjoy combining both software, hardware and 3D-Printing to solve real-world problems, and I’m passionate about reverse engineering and improving electronics.
+I enjoy combining software, hardware, and 3D printing to solve real-world problems, and I'm passionate about reverse engineering and improving electronics.
 
 I hope to make my GitHub a collection of projects and resources where I explore and document my experiments. 
 Whether it’s communicating with embedded systems through UART, setting up a homelab for experimentation, or repairing PCBs, I share my knowledge and solutions to help others in the community. 
